@@ -2,7 +2,7 @@
 - I’m interested and currently learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>; 📚 <br>
 
 
-<h1>Contact </h1>
+<h2>Contact </h2>
 
 [Linkedin](https://www.linkedin.com/in/j%C3%A9ssica-pimentel-908841219/).
 [Instagram](https://www.instagram.com/alaranjessica/).
