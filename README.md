@@ -1,5 +1,5 @@
 <h1> Hi, I’m @jessica-pimentel ✨ </h1>
-- I’m interested and currently learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Csharp</b>; 📚 <br>
+- I’m interested and currently learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Csharp</b>, <b>ReactNative</b>, <b>SQLServer</b>; 📚 <br>
 
 
 <h2>Contact </h2>
