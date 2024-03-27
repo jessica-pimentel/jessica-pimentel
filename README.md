@@ -4,8 +4,12 @@
 
 <h2>Contact </h2>
 
-[Linkedin](https://www.linkedin.com/in/j%C3%A9ssica-pimentel-908841219/).
-[Instagram](https://www.instagram.com/alaranjessica/).
+<!-- Badges de contato -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/jessica-pimentel96/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+</div>
 
 <!---- 📫 How to reach me: <br>
 <!---
