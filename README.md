@@ -1,15 +1,23 @@
-<h1> Hi, I’m @jessica-pimentel ✨ </h1>
+[![](https://visitcount.itsvg.in/api?id=arzoopervaiz&icon=8&color=5)](https://visitcount.itsvg.in)
+# Hi, I’m @jessica-pimentel ✨ 
 - I’m interested and currently learning  <b>Csharp</b>, <b>SQLServer</b>, <b>Postgress</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactNative</b>; 📚 <br>
 
-
-<h2>Contact </h2>
-
+## 🌐 Contact 
 <!-- Badges de contato -->
 <div align="left">
   <a href="https://www.linkedin.com/in/jessica-pimentel96/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
+  <br>
+  <br>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jessica-pimentel&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-pimentel&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jessica-pimentel&theme=highcontrast&hide_border=false)
+
 </div>
+
 
 <!---- 📫 How to reach me: <br>
 <!---
