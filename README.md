@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=jessica-pimentel&icon=8&color=5)](https://visitcount.itsvg.in)
 # Hi, I’m @jessica-pimentel ✨ 
 - I’m interested and currently learning  <b>Csharp</b>, <b>SQLServer</b>, <b>Postgress</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactNative</b>; 📚 <br>
 
@@ -18,6 +17,7 @@
 
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=jessica-pimentel&icon=8&color=5)](https://visitcount.itsvg.in)
 
 <!---- 📫 How to reach me: <br>
 <!---
