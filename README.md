@@ -1,7 +1,7 @@
 # Hi, I’m @jessica-pimentel ✨ 
 - I’m interested and currently learning  <b>Csharp</b>, <b>SQLServer</b>, <b>Postgress</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactNative</b>; 📚 <br>
 
-## 🌐 Contact 
+## 🌐 Contact: 
 <!-- Badges de contato -->
 <div align="left">
   <a href="https://www.linkedin.com/in/jessica-pimentel96/" target="_blank">
