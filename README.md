@@ -3,7 +3,7 @@
 
 ## 🌐 Contact: 
 <!-- Badges de contato -->
-<a href="https://www.linkedin.com/in/jessica-pimentel96/" target="_blank">
+<a href="https://www.linkedin.com/in/jessica-pimentel96/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
   <br>
