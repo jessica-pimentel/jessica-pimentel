@@ -1,8 +1,14 @@
 [![](https://visitcount.itsvg.in/api?id=jessica-pimentel&icon=8&color=5)](https://visitcount.itsvg.in)
 # Hi, I’m @jessica-pimentel ✨ 
-- I’m interested and currently learning  <b>Csharp</b>, <b>SQLServer</b>, <b>Postgress</b>, <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactNative</b>; 📚 <br>
+## Working with and interested in:
+- <b>C#</b>, <b>Java</b>, <b>SQL Server</b>, <b>Postgres</b>, <b>JPA;</b>
+- <b>React Native</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript;</b>
+- <b>Flutter</b>, <b>Angular</b>, <b>TypeScript;</b>
 
-## 🌐 Contact: 
+### Methodologies and Tools
+- <b>Scrum</b>, <b>Kanban</b>, <b>Extreme Programming (XP)</b>, <b>Agile Development</b>, <b>TDD</b>, <b>DAO</b>, <b>DDD</b>, <b>Selenium</b>, <b>XPath</b>, <b>Microservices</b>, <b>Docker;</b>
+
+## 🌐 Contact me at: 
 <!-- Badges de contato -->
 <div align="left">
   <a href="https://www.linkedin.com/in/jessica-pimentel96/" target="_blank">
