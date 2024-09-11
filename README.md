@@ -1,7 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=jessica-pimentel&icon=8&color=5)](https://visitcount.itsvg.in)
 # Hi, I’m @jessica-pimentel ✨ 
 ## Working with and interested in:
-- <b>C#</b>, <b>.NET</b>, <b>SQL Server</b>, <b>Postgres</b>, <b>Java</b>, <b>SpringBoot</b>, <b>JPA;</b>
+- <b>C#</b>, <b>.NET</b>, <b>Java</b>, <b>SpringBoot;</b>, 
+- <b>SQL Server</b>, <b>Postgres</b>, <b>JPA;</b>
 - <b>React Native</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript;</b>
 - <b>Angular</b>, <b>TypeScript;</b>, <b>Flutter</b>,
 
