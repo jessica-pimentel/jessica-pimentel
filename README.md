@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=jessica-pimentel&icon=8&color=5)](https://visitcount.itsvg.in)
 # Hi, I’m @jessica-pimentel ✨ 
 ## Working with and interested in:
-- <b>C#</b>, <b>.NET</b>, <b>Java</b>, <b>SpringBoot;</b>, 
-- <b>SQL Server</b>, <b>Postgres</b>, <b>JPA;</b>
-- <b>React Native</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript;</b>
-- <b>Angular</b>, <b>TypeScript;</b>, <b>Flutter</b>,
+- <b>C#</b>, <b>.NET</b>, <b>Java</b>, <b>SpringBoot</b>, <b>Kotlin;</b> 
+- <b>SQL Server</b>, <b>Postgres</b>, <b>H2</b>, <b>EntityFramework</b>, <b>JPA;</b> 
+- <b>React Native</b>, <b>Angular</b>, <b>Flutter;</b>
+- <b>HTML</b>, <b>CSS</b>, <b>Dart</b>, <b>JavaScript</b>, <b>TypeScript;</b>
 
 ### Methodologies and Tools
 - <b>Scrum</b>, <b>Kanban</b>, <b>Extreme Programming (XP)</b>, <b>Agile Development</b>, <b>TDD</b>, <b>DAO</b>, <b>DDD</b>, <b>Selenium</b>, <b>XPath</b>, <b>Microservices</b>, <b>Docker;</b>
